@@ -5,7 +5,7 @@ configuration:
 name: "Citizen Mobile Backend"
 id: "Citizen-Mobile-Backend"
 type:
-  name: "Fiori Mobile Project"
+  name: "Mobile Backend"
   goals: null
 features: null
 goals: null
