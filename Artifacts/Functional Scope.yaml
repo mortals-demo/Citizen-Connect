@@ -15,7 +15,7 @@ source:
   type: "Weblink"
 description:
   title: null
-  details: "Describes the Overall Scope of the project, the personas &\_use cases"
+  details: "Describes the Overall Scope of the project, the personas &\_use cases."
   icon:
   - "sap-icon://document"
   background: null
