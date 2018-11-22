@@ -2,6 +2,8 @@
 project:
   name: "Citizen Connect"
   version: "0.1"
+  featureId:
+  - "9837d1b2-66f3-4ec0-939f-79b531962c0a"
   status:
     title: "Published"
     details: null
